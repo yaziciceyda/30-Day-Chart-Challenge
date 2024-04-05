@@ -15,4 +15,8 @@
 
 ![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%202/Day2.png)
 
+#### Day 3
+* [makeover](https://github.com/yaziciceyda/30-Day-Chart-Challenge/tree/main/2024/Day%203)
+
+![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%203/Day3.png)
 
