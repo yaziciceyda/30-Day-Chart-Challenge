@@ -20,3 +20,9 @@
 
 ![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%203/Day3.png)
 
+#### Day 4
+* [waffle](https://github.com/yaziciceyda/30-Day-Chart-Challenge/tree/main/2024/Day%204)
+
+![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%204/Day4.png)
+
+
