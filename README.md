@@ -25,4 +25,7 @@
 
 ![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%204/Day4.png)
 
+#### Day 5
+* [diverging](https://github.com/yaziciceyda/30-Day-Chart-Challenge/tree/main/2024/Day%205)
 
+![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%205/Day5.png)
