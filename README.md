@@ -3,6 +3,8 @@
 
 ## 2024 Edition
 
+![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/2024_prompt.jpg)
+
 ### Category 1: Comparisons
 
 #### Day 1 
@@ -29,3 +31,9 @@
 * [diverging](https://github.com/yaziciceyda/30-Day-Chart-Challenge/tree/main/2024/Day%205)
 
 ![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%205/Day5.png)
+
+#### Day 5
+* [data day: OECD](https://github.com/yaziciceyda/30-Day-Chart-Challenge/tree/main/2024/Day%206)
+
+![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%206/Day6.png)
+
