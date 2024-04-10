@@ -32,8 +32,16 @@
 
 ![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%205/Day5.png)
 
-#### Day 5
+#### Day 6
 * [data day: OECD](https://github.com/yaziciceyda/30-Day-Chart-Challenge/tree/main/2024/Day%206)
 
 ![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%206/Day6.png)
+
+### Category 2: Distributions
+
+#### Day 7
+* [hazards](https://github.com/yaziciceyda/30-Day-Chart-Challenge/tree/main/2024/Day%207)
+
+![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%207/Day7_final.gif)
+
 
