@@ -44,4 +44,7 @@
 
 ![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%207/Day7_final.gif)
 
+#### Day 8
+* [circular](https://github.com/yaziciceyda/30-Day-Chart-Challenge/tree/main/2024/Day%208)
 
+![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%208/Day8.png)
