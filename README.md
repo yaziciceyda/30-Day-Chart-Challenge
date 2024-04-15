@@ -48,3 +48,10 @@
 * [circular](https://github.com/yaziciceyda/30-Day-Chart-Challenge/tree/main/2024/Day%208)
 
 ![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%208/Day8.png)
+
+#### Day 9
+* [major/minor](https://github.com/yaziciceyda/30-Day-Chart-Challenge/tree/main/2024/Day%209)
+
+![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%209/Day9.png)
+
+
