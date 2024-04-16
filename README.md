@@ -55,3 +55,7 @@
 ![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%209/Day9.png)
 
 
+#### Day 10
+* [physical](https://github.com/yaziciceyda/30-Day-Chart-Challenge/tree/main/2024/Day%2010)
+
+![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%2010/Day10.png)
