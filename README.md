@@ -65,3 +65,9 @@
 
 ![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%2011/Day11.png)
 
+
+#### Day 12
+* [Reuters Graphics](https://github.com/yaziciceyda/30-Day-Chart-Challenge/tree/main/2024/Day%2012)
+
+![image](https://github.com/yaziciceyda/30-Day-Chart-Challenge/blob/main/2024/Day%2012/Day12.png)
+
